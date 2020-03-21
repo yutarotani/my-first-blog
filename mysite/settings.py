@@ -25,7 +25,7 @@ SECRET_KEY = '+dq8s8tm&j4b35og(w9c(1==w%bhtgc)txx7j$rfo9c2!a5x&a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['07f7ddb46dbc4711af004e8a0f5dbd92.vfs.cloud9.us-east-1.amazonaws.com','taniyutaro0326.pythonanywhere.com','7c9552c4fa0704f1c1990136abac4079968cbac1']
+ALLOWED_HOSTS = ['07f7ddb46dbc4711af004e8a0f5dbd92.vfs.cloud9.us-east-1.amazonaws.com','7c9552c4fa0704f1c1990136abac4079968cbac1']
 
 
 # Application definition
